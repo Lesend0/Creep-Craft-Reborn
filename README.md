@@ -33,9 +33,9 @@ You are a **creeper** who has somehow ended up in Steve's world. However, Steve 
     <td align="center"><strong>Cave Adventures</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/building.png" alt="Building"></td>
-    <td align="center"><img src="assets/mining.png" alt="Mining"></td>
-    <td align="center"><img src="assets/caves.png" alt="Caves"></td>
+    <td align="center"><img src="assets/building.png" alt="building"></td>
+    <td align="center"><img src="assets/mining.png" alt="cave"></td>
+    <td align="center"><img src="assets/caves.png" alt="deep cave"></td>
   </tr>
 </table>
 
