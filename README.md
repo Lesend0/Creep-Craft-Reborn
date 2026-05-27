@@ -34,8 +34,8 @@ You are a **creeper** who has somehow ended up in Steve's world. However, Steve 
   </tr>
   <tr>
     <td align="center"><img src="assets/building.png" alt="building"></td>
-    <td align="center"><img src="assets/mining.png" alt="cave"></td>
-    <td align="center"><img src="assets/caves.png" alt="deep cave"></td>
+    <td align="center"><img src="assets/cave.png" alt="cave"></td>
+    <td align="center"><img src="assets/deep cave.png" alt="deep cave"></td>
   </tr>
 </table>
 
