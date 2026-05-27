@@ -33,9 +33,9 @@ You are a **creeper** who has somehow ended up in Steve's world. However, Steve 
     <td align="center"><strong>Cave Adventures</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Day%20Cycle-87CEEB?style=flat" alt="Day Cycle"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Mining-4A4A4A?style=flat" alt="Mining"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Caves-2F2F2F?style=flat" alt="Caves"></td>
+    <td align="center"><img src="assets/building.png" alt="Building"></td>
+    <td align="center"><img src="assets/mining.png" alt="Mining"></td>
+    <td align="center"><img src="assets/caves.png" alt="Caves"></td>
   </tr>
 </table>
 
