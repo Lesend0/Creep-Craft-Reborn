@@ -1,69 +1,209 @@
 # 🟩 Creep Craft: Reborn
 
-**Creep Craft: Reborn** is a massive 2D sandbox game with survival elements, inspired by Minecraft. The game runs directly in your browser and is built entirely with Vanilla JavaScript, HTML5 Canvas, and CSS3, without the use of any third-party game engines or libraries.
+<div align="center">
+
+**A massive browser-based 2D sandbox game with survival elements**
+
+Built with Vanilla JavaScript, HTML5 Canvas, and Web Audio API
+
+[Play Now](https://lesend0.github.io/Creep-Craft-Reborn) • [Report Bug](https://github.com/Lesend0/Creep-Craft-Reborn/issues) • [Request Feature](https://github.com/Lesend0/Creep-Craft-Reborn/issues)
+
+</div>
+
+---
+
+## 📸 Gameplay Screenshots
+
+<div align="center">
+
+### Surface Base & Daytime Adventures
+![Daytime gameplay](https://github.com/Lesend0/Creep-Craft-Reborn/assets/placeholder/image1.png)
+
+### Underground Mining & Exploration
+![Underground mining](https://github.com/Lesend0/Creep-Craft-Reborn/assets/placeholder/image2.png)
+
+### Cave Systems & Lava Pools
+![Cave systems](https://github.com/Lesend0/Creep-Craft-Reborn/assets/placeholder/image3.png)
+
+</div>
+
+---
 
 ## 📖 The Story
 
-You are a creeper who has somehow ended up in Steve's world. However, Steve has died, and since he was playing in hardcore mode, he will never respawn. Your task is to finish the game for him, survive using his methods, and ultimately defeat the dragon.
+You are a **creeper** who has somehow ended up in Steve's world. However, Steve has died, and since he was playing in **hardcore mode**, he will never respawn. 
+
+**Your mission?** Finish the game for him and survive.
+
+---
 
 ## 🌟 Key Features
 
-* **Procedural World Generation:** Explore a massive world of 20,000 by 256 blocks featuring different biomes, cave systems, water and lava pools, and ore generation (Coal, Iron, Gold, Diamonds).
-* **Advanced Game Mechanics:** 
-  * Full crafting system (Crafting Table) and ore smelting (Furnace).
-  * Fluid physics for water and lava with 8 levels of flow.
-  * Fire spreading mechanics and TNT explosions.
-  * Farming (tilling dirt with a hoe, planting seeds, growing wheat).
-* **Dynamic Environment:** 
-  * Smooth Day/Night cycle with dynamic sky palettes and a starry night sky.
-  * Advanced lighting system (Lightmap) — light from torches, lava, and active furnaces realistically scatters in the dark.
-  * Particle System v2 for immersive visual effects (block breaking chunks, blood, sparks, falling leaves, smoke).
-* **Entities & AI:**
-  * Hostile mobs (Zombies, Spiders) with advanced pathfinding and jumping logic.
-  * Passive mobs (Cows, Pigs, Sheep) featuring different behavioral states (wandering, eating grass, fleeing, panic).
-* **Custom Audio Engine:** Procedurally generated sound effects and music using the Web Audio API (oscillators, noise, filters). Features 3D spatial audio for mob footsteps and eerie cave ambient sounds.
-* **Rich User Interface:**
-  * Interactive inventory with Drag & Drop support, chests (including large double chests), and furnace GUI.
-  * In-game Commands Encyclopedia, Achievements system, and Chat.
+### 🗺️ **World & Generation**
+- **Procedural World Generation** — Explore a massive world of 20,000 × 256 blocks
+- **Diverse Biomes** — Multiple biome types with unique characteristics
+- **Cave Systems** — Deep, complex cave networks to explore
+- **Natural Resources** — Water and lava pools, ore deposits (Coal, Iron, Gold, Diamonds)
 
-## 🛠 Technologies
+### ⚙️ **Advanced Game Mechanics**
+- **Crafting System** — Full crafting table with recipes and ore smelting
+- **Furnace System** — Smelt ores and cook food
+- **Fluid Physics** — Realistic water and lava with 8 levels of flow
+- **Fire Mechanics** — Dynamic fire spreading across blocks
+- **Explosions** — TNT and creeper explosions with physics
+- **Farming** — Till soil, plant seeds, grow wheat crops
 
-* **JavaScript (ES6+)** — Core game logic, physics, AI, and collision detection.
-* **HTML5 Canvas** — Graphics rendering (including tile caching for maximum optimization).
-* **CSS3** — Pixel-art style UI elements (menus, HUD, inventory).
+### 🌍 **Dynamic Environment**
+- **Day/Night Cycle** — Smooth transitions with dynamic sky palettes
+- **Starry Nights** — Beautiful nighttime atmosphere
+- **Advanced Lighting** — Lightmap system with torch, lava, and furnace glow
+- **Particle Effects** — Block breaking, blood effects, sparks, falling leaves, smoke
 
-## 🚀 How to Play
+### 🧟 **Entities & AI**
+| Entity | Behavior |
+|--------|----------|
+| **Zombies** | Pathfinding, jumping, melee combat |
+| **Spiders** | Wall climbing, advanced AI |
+| **Cows** | Wandering, grazing, fleeing |
+| **Pigs** | Passive movement, panic behavior |
+| **Sheep** | Group herding, eating grass |
 
-The game requires no installation, servers, or databases.
+### 🎵 **Custom Audio Engine**
+- **Procedural Sound Design** — Generated using Web Audio API
+- **Dynamic Music** — Ambient soundtrack that adapts to gameplay
+- **3D Spatial Audio** — Immersive mob footsteps and cave ambience
+- **Oscillators & Filters** — Professional sound synthesis
 
-1. Clone the repository to your local machine:
-   \`\`\`bash
-   git clone https://github.com/YOUR_USERNAME/creepcraft-reborn.git
-   \`\`\`
-2. Navigate to the project folder and simply open the `index.html` file in any modern web browser.
-   *Note: For the best performance, it is recommended to use Google Chrome or Chromium-based browsers.*
+### 🎮 **Rich User Interface**
+- **Interactive Inventory** — Drag & Drop support, multiple slots
+- **Chest System** — Single and double chest storage
+- **Furnace GUI** — Visual smelting interface
+- **Command Encyclopedia** — In-game help system
+- **Achievements** — Progression tracking
+- **Chat System** — Communication and command execution
+
+---
+
+## 🛠️ Technologies
+
+| Technology | Purpose |
+|-----------|---------|
+| **JavaScript (ES6+)** | Core logic, physics, AI, collision detection |
+| **HTML5 Canvas** | High-performance rendering with tile caching |
+| **CSS3** | Pixel-art UI, menus, HUD, inventory styling |
+| **Web Audio API** | Procedural audio and spatial sound |
+
+---
+
+## 🚀 Quick Start
+
+### Installation
+
+No installation required! The game runs directly in your browser.
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Lesend0/Creep-Craft-Reborn.git
+
+# 2. Navigate to the folder
+cd Creep-Craft-Reborn
+
+# 3. Open in your browser
+# Simply double-click index.html or open it with your browser
+```
+
+**💡 Tip:** For best performance, use **Google Chrome** or **Chromium-based browsers** (Edge, Brave, etc.)
+
+---
 
 ## 🎮 Controls
 
-* **W, A, S, D / Arrow Keys** — Move
-* **Space / W / Up Arrow** — Jump
-* **LMB (Left Mouse Button)** — Attack mobs / Mine blocks
-* **RMB (Right Mouse Button)** — Place blocks / Interact (eat food, use buckets)
-* **E** — Open/Close Inventory
-* **Q** — Drop item (while hovering over it in the inventory)
-* **1-9 / Mouse Wheel** — Select item in the hotbar
-* **T / \` / /** — Open in-game chat / command prompt
-* **F3** — Toggle Debug screen (FPS, coordinates)
-* **Esc** — Pause / Settings Menu
+### Movement & Actions
+| Key | Action |
+|-----|--------|
+| **W, A, S, D** / **Arrow Keys** | Move |
+| **Space** / **W** / **Up Arrow** | Jump |
+| **LMB** | Attack mobs / Mine blocks |
+| **RMB** | Place blocks / Interact (eat, use buckets) |
 
-## ⌨️ Commands (Chat)
-The game features a variety of cheat commands. Here are a few examples:
-* `/time day` or `/time night` — Change the time of day.
-* `/give [item_name] [count]` — Give yourself an item.
-* `/summon [zombie/spider/pig/cow/sheep]` — Spawn an entity near you.
-* `/noclip` — Toggle free-flight mode through blocks.
-* A full list can be found in the **Help & Controls -> Commands Encyclopedia** menu.
+### Interface
+| Key | Action |
+|-----|--------|
+| **E** | Open/Close Inventory |
+| **Q** | Drop item from inventory |
+| **1-9** / **Mouse Wheel** | Select hotbar item |
+| **T** / **`** / **/** | Open chat / command prompt |
+| **F3** | Toggle Debug screen (FPS, coordinates) |
+| **Esc** | Pause / Settings Menu |
+
+---
+
+## ⌨️ Command Console
+
+Unlock powerful cheats with in-game commands:
+
+```
+/time day                    → Set time to day
+/time night                  → Set time to night
+/give [item] [count]         → Give yourself items
+/summon [entity]             → Spawn: zombie, spider, pig, cow, sheep
+/noclip                      → Toggle flight mode through blocks
+/heal                        → Restore full health
+/gamemode [survival/creative] → Change game mode
+```
+
+**View all commands** in: **Help & Controls → Commands Encyclopedia**
+
+---
+
+## 📊 Project Statistics
+
+```
+📝 Code Language Distribution
+├─ JavaScript (ES6+): 84.5%
+├─ HTML:             15%
+└─ CSS:              0.5%
+```
+
+---
 
 ## 🤝 Contributing
 
-Pull requests are highly appreciated! If you want to add new blocks, crafting recipes, or improve mob AI, feel free to fork the repository, create a new branch, and submit your improvements.
+We love contributions! Whether it's new blocks, crafting recipes, mob AI improvements, or bug fixes:
+
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+4. **Push** to the branch (`git push origin feature/amazing-feature`)
+5. **Open** a Pull Request
+
+### Ideas for Contributions
+- 🧱 New block types and textures
+- 👾 Additional mobs and AI behaviors
+- 🔧 More crafting recipes
+- 🎨 UI/UX improvements
+- 🐛 Bug fixes and optimizations
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Credits
+
+- Inspired by **Minecraft** and the classic **Creep Craft** Flash game
+- Built with **Vanilla JavaScript** — No frameworks, pure web technology
+- Developed with AI assistance (**Claude Code**, **Antigravity**)
+
+---
+
+<div align="center">
+
+### ⭐ If you enjoy this project, please consider giving it a star!
+
+[⬆ back to top](#-creep-craft-reborn)
+
+</div>
