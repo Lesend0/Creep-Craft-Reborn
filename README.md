@@ -6,8 +6,6 @@
 
 Built with Vanilla JavaScript, HTML5 Canvas, and Web Audio API
 
-[Play Now](https://lesend0.github.io/Creep-Craft-Reborn) • [Report Bug](https://github.com/Lesend0/Creep-Craft-Reborn/issues) • [Request Feature](https://github.com/Lesend0/Creep-Craft-Reborn/issues)
-
 </div>
 
 ---
@@ -17,13 +15,13 @@ Built with Vanilla JavaScript, HTML5 Canvas, and Web Audio API
 <div align="center">
 
 ### Surface Base & Daytime Adventures
-![Daytime gameplay](https://github.com/Lesend0/Creep-Craft-Reborn/assets/placeholder/image1.png)
+![Daytime gameplay - Base with Creeper](https://github.com/Lesend0/Creep-Craft-Reborn/assets/images/gameplay1.png)
 
 ### Underground Mining & Exploration
-![Underground mining](https://github.com/Lesend0/Creep-Craft-Reborn/assets/placeholder/image2.png)
+![Underground - Mining with Axe](https://github.com/Lesend0/Creep-Craft-Reborn/assets/images/gameplay2.png)
 
 ### Cave Systems & Lava Pools
-![Cave systems](https://github.com/Lesend0/Creep-Craft-Reborn/assets/placeholder/image3.png)
+![Cave Systems - Lava and Darkness](https://github.com/Lesend0/Creep-Craft-Reborn/assets/images/gameplay3.png)
 
 </div>
 
@@ -188,7 +186,7 @@ We love contributions! Whether it's new blocks, crafting recipes, mob AI improve
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License.
 
 ---
 
