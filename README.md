@@ -6,25 +6,6 @@
 
 Built with Vanilla JavaScript, HTML5 Canvas, and Web Audio API
 
-</div>
-
----
-
-## 📸 Gameplay Screenshots
-
-<div align="center">
-
-### Surface Base & Daytime Adventures
-![Daytime gameplay - Base with Creeper](https://github.com/Lesend0/Creep-Craft-Reborn/assets/images/gameplay1.png)
-
-### Underground Mining & Exploration
-![Underground - Mining with Axe](https://github.com/Lesend0/Creep-Craft-Reborn/assets/images/gameplay2.png)
-
-### Cave Systems & Lava Pools
-![Cave Systems - Lava and Darkness](https://github.com/Lesend0/Creep-Craft-Reborn/assets/images/gameplay3.png)
-
-</div>
-
 ---
 
 ## 📖 The Story
